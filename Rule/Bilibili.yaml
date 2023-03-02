@@ -6,13 +6,13 @@ payload:
   - DOMAIN,app.biliapi.com
   - DOMAIN,app.biliapi.net
   - DOMAIN,app.bilibili.com
+  - DOMAIN,api.snm0516.aisee.tv
+  - DOMAIN,broadcast.chat.bilibili.com
+  - DOMAIN,data.bilibili.com
   - DOMAIN,grpc.biliapi.net
   - DOMAIN,m.bilibili.com
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
   - DOMAIN,www.bilibili.com
-  - DOMAIN,data.bilibili.com
-  - DOMAIN,broadcast.chat.bilibili.com
-  - DOMAIN,api.snm0516.aisee.tv
   - DOMAIN-SUFFIX,search.bilibili.com
   - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,bilivideo.cn
