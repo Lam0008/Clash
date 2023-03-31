@@ -17,14 +17,7 @@ payload:
   - DOMAIN-SUFFIX,storage.live.com
 
 # > Splashtop
-  - PROCESS-NAME,SRStreamerDaemon
-  - PROCESS-NAME,Splashtop Streamer
-  - PROCESS-NAME,Splashtop Personal
-  - DOMAIN-KEYWORD,splashtop
-
-# > Ubiquiti
-  - DOMAIN-SUFFIX,ui.com
-  - DOMAIN-SUFFIX,ubnt.com
-  - DOMAIN-SUFFIX,iot.us-west-2.amazonaws.com
-  - DOMAIN,global.turn.twilio.com
-  - DOMAIN,global.stun.twilio.com
+  #- PROCESS-NAME,SRStreamerDaemon
+  #- PROCESS-NAME,Splashtop Streamer
+  #- PROCESS-NAME,Splashtop Personal
+  #- DOMAIN-KEYWORD,splashtop
