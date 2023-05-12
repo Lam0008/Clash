@@ -1,5 +1,6 @@
 payload:
 # > bilibili
+  - DOMAIN,at.alicdn.com
   - DOMAIN,api.snm0516.aisee.tv
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
   - DOMAIN-SUFFIX,hdslb.com
