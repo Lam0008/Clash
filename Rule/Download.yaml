@@ -2,3 +2,6 @@ payload:
 # > Steam
   - DOMAIN,client-update.akamai.steamstatic.com
   - DOMAIN-SUFFIX,steamcontent.com
+
+# > Github
+  - DOMAIN,objects.githubusercontent.com
