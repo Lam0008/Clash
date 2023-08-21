@@ -12,3 +12,5 @@ payload:
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,meituan
   - DOMAIN-KEYWORD,hupu
+  - DOMAIN-SUFFIX,splashtop.com
+  - DOMAIN-SUFFIX,misty.one
