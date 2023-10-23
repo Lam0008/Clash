@@ -14,3 +14,4 @@ payload:
   - DOMAIN-KEYWORD,hupu
   - DOMAIN-SUFFIX,splashtop.com
   - DOMAIN-SUFFIX,misty.one
+  - PROCESS-NAME,WeChat.exe
